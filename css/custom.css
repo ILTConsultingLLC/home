@@ -1,0 +1,94 @@
+.contact-form-wrapper {
+  max-width: 640px; }
+  .contact-form-wrapper .form-group label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+    color: #2f2f41; }
+  .contact-form-wrapper .form-control {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 0.6rem 0.75rem;
+    font-size: 1rem;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease; }
+    .contact-form-wrapper .form-control:focus {
+      border-color: #1a73e8;
+      box-shadow: 0 0 0 3px rgba(26, 115, 232, 0.15);
+      outline: none; }
+  .contact-form-wrapper textarea.form-control {
+    resize: vertical; }
+  .contact-form-wrapper .button {
+    margin-top: 0.5rem; }
+
+.form-success {
+  background-color: #e8f0fe;
+  color: #1557b0;
+  border: 1px solid #1a73e8;
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  font-weight: 600; }
+
+.form-error {
+  background-color: #fceced;
+  color: #bd2130;
+  border: 1px solid #dc3545;
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  font-weight: 600; }
+
+.team-profiles h2 {
+  margin-bottom: 1.5rem; }
+
+.team-profiles .team-member {
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 6px;
+  padding: 1.5rem;
+  height: 100%;
+  transition: box-shadow 0.2s ease; }
+  .team-profiles .team-member:hover {
+    box-shadow: 0 4px 12px rgba(47, 47, 65, 0.08); }
+
+.team-profiles .team-member-image {
+  border-radius: 50%;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  margin-bottom: 1rem; }
+
+.team-profiles .team-member-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 0.15rem;
+  color: #2f2f41; }
+
+.team-profiles .team-member-role {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #1a73e8;
+  margin-bottom: 0.75rem; }
+
+.team-profiles .team-member-bio {
+  font-size: 0.95rem;
+  color: #5a5a7c;
+  margin-bottom: 0; }
+
+.footer-custom {
+  background-color: #2f2f41;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 1.5rem 0;
+  font-size: 0.875rem; }
+  .footer-custom p {
+    margin: 0; }
+
+.hero-tagline {
+  font-size: 1.2rem;
+  color: #65658b;
+  margin-bottom: 1.5rem; }
+
+.button-primary {
+  transition: background-color 0.2s ease, box-shadow 0.2s ease; }
+  .button-primary:hover {
+    box-shadow: 0 2px 8px rgba(26, 115, 232, 0.3); }
+
+/*# sourceMappingURL=custom.css.map */
