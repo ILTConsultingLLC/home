@@ -1,6 +1,2 @@
-# Fonts are served from static/ in the source repo and copied here on build.
-# No need to track them in the published repo — keeps push sizes small.
-fonts/
-
 # macOS metadata
 .DS_Store
