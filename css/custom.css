@@ -215,10 +215,12 @@
     box-shadow: 0 2px 8px rgba(26, 61, 117, 0.3); }
 
 .intro {
-  padding-bottom: 40px; }
+  padding-top: 10px;
+  padding-bottom: 10px; }
   @media (min-width: 768px) {
     .intro {
-      padding-bottom: 60px; } }
+      padding-top: 5px;
+      padding-bottom: 10px; } }
   .intro h1 {
     font-family: 'Now', sans-serif;
     font-size: 28px;
