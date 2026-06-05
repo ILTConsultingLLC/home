@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on ILT Consulting, LLC</title>
-    <link>http://localhost:1313/services/</link>
+    <link>https://www.iltconsulting.net/services/</link>
     <description>Recent content in Services on ILT Consulting, LLC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iltconsulting.net/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workflow Automation</title>
-      <link>http://localhost:1313/services/consulting/</link>
+      <link>https://www.iltconsulting.net/services/consulting/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/consulting/</guid>
+      <guid>https://www.iltconsulting.net/services/consulting/</guid>
       <description>&lt;p&gt;Google Apps Script is a powerful, cloud-based platform that allows us to build custom tools and automate repetitive tasks directly within your Google Workspace. We write specialized code that connects your favorite tools like Sheets, Docs, and Gmail to create seamless digital environments that increase accuracy and efficiency in your workflow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Document Remediation</title>
-      <link>http://localhost:1313/services/accessibility/</link>
+      <link>https://www.iltconsulting.net/services/accessibility/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/accessibility/</guid>
+      <guid>https://www.iltconsulting.net/services/accessibility/</guid>
       <description>&lt;p&gt;Inaccessible digital files aren&amp;rsquo;t just a barrier for users; they are a legal and reputational risk for your campus. We provide a meticulous, human-in-the-loop approach to document remediation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tactile Teachables</title>
-      <link>http://localhost:1313/services/3dprinting/</link>
+      <link>https://www.iltconsulting.net/services/3dprinting/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/3dprinting/</guid>
+      <guid>https://www.iltconsulting.net/services/3dprinting/</guid>
       <description>&lt;p&gt;Accessibility goes beyond the screen. While document remediation makes text accessible to screen readers, abstract concepts like architectural layouts, biological cells, or complex geometric data can often be perceived more effectively through concrete objects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding Accessibility</title>
-      <link>http://localhost:1313/services/cpe/</link>
+      <link>https://www.iltconsulting.net/services/cpe/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/cpe/</guid>
+      <guid>https://www.iltconsulting.net/services/cpe/</guid>
       <description>&lt;p&gt;The most sustainable way to ensure accessibility is to build a culture of inclusion within your team. We provide Continuing Professional Education (CPE) and specialized training sessions designed for educators, digital content creators, and makerspace coordinators.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inclusive Makerspaces</title>
-      <link>http://localhost:1313/services/maker/</link>
+      <link>https://www.iltconsulting.net/services/maker/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/maker/</guid>
+      <guid>https://www.iltconsulting.net/services/maker/</guid>
       <description>&lt;p&gt;True innovation requires a seat at the table for everyone. Drawing on research regarding makerspaces and students with severe disabilities, we provide specialized consulting to help schools, libraries, and community hubs transform their maker environments into truly inclusive spaces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Implementation &amp; Coaching</title>
-      <link>http://localhost:1313/services/implementation/</link>
+      <link>https://www.iltconsulting.net/services/implementation/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/implementation/</guid>
+      <guid>https://www.iltconsulting.net/services/implementation/</guid>
       <description>&lt;p&gt;Turning a vision into reality is a journey we take together. Drawing on the &lt;a href=&#34;https://www.instructionalcoaching.com/jim-knight-coaching-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Impact Cycle&lt;/a&gt;&#xA; and &lt;a href=&#34;https://www.energyleadership.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Energy Leadership&lt;/a&gt;&#xA; coaching frameworks, we provide the partnership-driven support your team needs to move from &amp;ldquo;knowing&amp;rdquo; to &amp;ldquo;doing&amp;rdquo; with confidence and clarity.&lt;/p&gt;</description>
     </item>
   </channel>
