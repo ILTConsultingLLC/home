@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/alvarogomez/Library/Mobile Documents/com~apple~CloudDocs/Work/ILT_Consulting_LLC/website",
+	"sourceRoot": "/Users/alvarogomez/Developer/website",
 	"sources": [
 		"themes/hugo-serif-theme/assets/scss/style.scss",
 		"themes/hugo-serif-theme/assets/scss/_variables.scss",
